@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name        Redirect amazon.com to corolla link--XXXTESTXXX
+// @name        Redirect amazon.com to corolla link
 // @namespace   jg5050
 // @description On any web page it will check if the clicked links goes to userscripts.org. If so, the link will be rewritten to point to userscripts-mirror.org
 // @include     http://*.*
 // @include     https://*.*
 // @exclude     http://www.amazon.com/*
 // @exclude     https://www.amazon.com/*
-// @version     1.2
+// @version     1.1
 // @grant       none
 // ==/UserScript==
 
