@@ -10,7 +10,7 @@
 // @grant       none
 // ==/UserScript==
 
-// This is a slightly brute force solution, but there is no other way to do it using only a userscript. A full-fledged addon may be created soon.
+// ----------TEST------------This is a slightly brute force solution, but there is no other way to do it using only a userscript. A full-fledged addon may be created soon.
 
 document.body.addEventListener('click', function(e){
     var targ = e.target || e.srcElement;
