@@ -6,7 +6,7 @@
 // @include     https://*.*
 // @exclude     http://www.amazon.com/*
 // @exclude     https://www.amazon.com/*
-// @version     1
+// @version     1.1
 // @grant       none
 // ==/UserScript==
 
