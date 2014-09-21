@@ -2,7 +2,7 @@
 // @id          org.userscripts.users.jim50.RedditMouseoverPopupImageViewer
 // @name        Reddit Mouseover Popup Image Viewer
 // @description Shows larger version of thumbnails on reddit.com.
-// @version     2014.3.14
+// @version     1.1
 // @author      jim50
 // @homepage    http://userscripts.org/scripts/show/417751
 // @icon        http://s3.amazonaws.com/uso_ss/icon/417751/large.png?1395216776
