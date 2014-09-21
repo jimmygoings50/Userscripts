@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Amazon Redirect to Support Adam Carolla Vs Patent Trolls
 // @namespace  jg50
-// @version    1.1.1
+// @version    1.1.2
 // @description  Redirects Amazon.com to Adam Carolla's Amazon Revenue Link
 // @include http://www.amazon.com/*
 // @include https://www.amazon.com/*
