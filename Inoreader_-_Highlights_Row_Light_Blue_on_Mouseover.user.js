@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name          	Inoreader - Highlights row light blue when mouse over in Article Pane
-// @namespace 	  	
+// @namespace 	  	https://openuserjs.org/scripts/jg5050/Inoreader_-_Highlights_row_light_blue_when_mouse_over_in_Article_Pane
 // @description	  	Change background to light blue when hovering with the mouse over headers in the article pane 
-// @downloadURL 	
-// @updateURL 		
+// @downloadURL 	https://github.com/jimmygoings50/Userscripts/blob/master/Inoreader_-_Highlights_Row_Light_Blue_on_Mouseover.user.js
+// @updateURL 		https://github.com/jimmygoings50/Userscripts/blob/master/Inoreader_-_Highlights_Row_Light_Blue_on_Mouseover.user.js
 // @author        	jg5050
 // @version        	1.0
 // @domain       	www.inoreader.com 
