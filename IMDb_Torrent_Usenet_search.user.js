@@ -1,7 +1,7 @@
 // ==UserScript==
 // @author         jim50 
 // @name           IMDb Torrent & Usenet search
-// @version        2.0.0
+// @version        2.0.1
 // @description    Adds title search links to the most popular torrent & Usenet sites.
 // @include        http://www.imdb.*/title/*
 // @include        http://imdb.*/title/*
@@ -246,7 +246,7 @@ if(div && title)
 "Q0NDQ0NDQ0NDQ0NDQ0NDQ0NDQkJCQkJCqKio/////////////////////////v7+/v7+/v7+/v7+"+
 "/v7+/v7+/v7+/v7+/v7+////////////AAA=";
 
-    buildCell(tr, "PirateBay","http://thepiratebay.sx/search/"+txt+"/0/99/200", img);
+    buildCell(tr, "PirateBay","http://thepiratebay.se/search/"+txt+"/0/99/200", img);
    
      //Torrentzap
 
