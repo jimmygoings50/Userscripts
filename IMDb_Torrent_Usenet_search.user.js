@@ -1,7 +1,7 @@
 // ==UserScript==
 // @author         jim50 
 // @name           IMDb Torrent & Usenet search
-// @version        2.0.1
+// @version        2.0.2
 // @description    Adds title search links to the most popular torrent & Usenet sites.
 // @include        http://www.imdb.*/title/*
 // @include        http://imdb.*/title/*
@@ -316,7 +316,7 @@ if(div && title)
 "AAAA/j8AAPgPAADwBwAA4AMAAMADAADAAQAAgAEAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAB"+
 "AADAAQAAxjMAAA==";
 
-    buildCell(tr, "KickAss","http://kat.ph/usearch/"+txt+"/?categories[]=movies&categories[]=tv", img);
+    buildCell(tr, "KickAss","http://kickass.to/usearch/"+txt+"/?categories[]=movies&categories[]=tv", img);
 
      //isoHunt
 
