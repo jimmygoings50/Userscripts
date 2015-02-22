@@ -11,7 +11,6 @@
 // @grant	   	   GM_xmlhttpRequest
 // @grant          GM_getValue
 // @grant   	   GM_addStyle
-// @require        
 //original script by mungushume and r3b31 edited by jim50
 // ==/UserScript==
 
